@@ -1,0 +1,9 @@
+c:\users\pfribourg\documents\visual studio 2015\Projects\IRC\IRC\bin\Debug\IRC.exe.config
+c:\users\pfribourg\documents\visual studio 2015\Projects\IRC\IRC\bin\Debug\IRC.exe
+c:\users\pfribourg\documents\visual studio 2015\Projects\IRC\IRC\bin\Debug\IRC.pdb
+c:\users\pfribourg\documents\visual studio 2015\Projects\IRC\IRC\obj\Debug\IRC.csprojResolveAssemblyReference.cache
+c:\users\pfribourg\documents\visual studio 2015\Projects\IRC\IRC\obj\Debug\IRC.IRACID.resources
+c:\users\pfribourg\documents\visual studio 2015\Projects\IRC\IRC\obj\Debug\IRC.Properties.Resources.resources
+c:\users\pfribourg\documents\visual studio 2015\Projects\IRC\IRC\obj\Debug\IRC.csproj.GenerateResource.Cache
+c:\users\pfribourg\documents\visual studio 2015\Projects\IRC\IRC\obj\Debug\IRC.exe
+c:\users\pfribourg\documents\visual studio 2015\Projects\IRC\IRC\obj\Debug\IRC.pdb
